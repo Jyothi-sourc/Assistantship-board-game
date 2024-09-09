@@ -1,1 +1,1 @@
-# Assistantship-board-game
+# Assistantship-Card-game
